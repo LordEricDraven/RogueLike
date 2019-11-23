@@ -92,7 +92,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da2fbc0487d5baf44811d2474c863a7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  OpeningDirection: 1
 --- !u!1 &142104962022156533
 GameObject:
   m_ObjectHideFlags: 0
@@ -906,7 +905,7 @@ GameObject:
   - component: {fileID: 4535714717562379589}
   - component: {fileID: 8812116430789491661}
   m_Layer: 0
-  m_Name: SpawnPoint
+  m_Name: SpawnPoint (1)
   m_TagString: SpawnPoint
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -985,7 +984,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da2fbc0487d5baf44811d2474c863a7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  OpeningDirection: 2
 --- !u!1 &2289495349446289936
 GameObject:
   m_ObjectHideFlags: 0
